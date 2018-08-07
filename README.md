@@ -1,1 +1,3 @@
-# Hit-The-Tree-3D-App
+# Hit-The-Tree
+
+3D game made using SceneKit framework
